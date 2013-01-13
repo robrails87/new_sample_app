@@ -4,6 +4,7 @@
 
 $grayMediumLight: #eaeaea;
 
+
 /* universal */
 
 html {
@@ -49,7 +50,7 @@ h2 {
 	margin-bottom: 30px;
 	text-align: center;
 	font-weight: normal;
-	color: $greyLight;	
+	color: $grayLight;	
 }
 
 p {
@@ -80,12 +81,12 @@ p {
 footer {
 	margin-top: 45px;
 	padding-top: 5px;
-	border-top: 1px solid $greyMediumLight;
-	color: $greyLight;
+	border-top: 1px solid $grayMediumLight;
+	color: $grayLight;
 	a {
 		color: $gray;
 		&:hover {
-			color: $greyDarker;
+			color: $grayDarker;
 		}
 	}
 	small {
